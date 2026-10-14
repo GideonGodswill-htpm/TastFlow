@@ -123,7 +123,7 @@ padding: 0 7%;
     background-color: #f5f7ff;
     font-size: 16px;
     cursor: pointer;
-    border: 2px solid #dOd2ca;
+    border: 2px solid ;
 }
 .options:hover{
     border-color: #14211d
@@ -147,7 +147,7 @@ padding: 0 7%;
     background-color: #fbfbf8;
     border-radius: 18px;
     outline: none;
-    border: 1px solid #dOd2ca;
+    border: 1px solid ;
 }
 .form-group input:focus,
 .form-group textarea:focus{

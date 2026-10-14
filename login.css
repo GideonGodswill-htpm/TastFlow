@@ -157,4 +157,14 @@ body{
 .auth-switch a{
     text-decoration: none;
     font-weight: bolder;
+} 
+@media(max-width:600px){
+    .form-row{
+        flex-direction: column;
+        gap: 0;
+    }
+    .auth-box{
+        padding: 25px 20px;
+    }
+}
 }
